@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "359590499162",
+    "project_id": "reflectiverespite",
+    "storage_bucket": "reflectiverespite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359590499162:android:8d0a3fb2e52cabba3b9963",
+        "android_client_info": {
+          "package_name": "com.example.journal_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNI7LShL_-A6u-hiYT-YxihNSTqnEgmVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359590499162:android:b18a735c95d604e83b9963",
+        "android_client_info": {
+          "package_name": "com.example.start_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNI7LShL_-A6u-hiYT-YxihNSTqnEgmVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
